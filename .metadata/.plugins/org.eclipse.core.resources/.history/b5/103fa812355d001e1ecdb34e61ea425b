@@ -1,0 +1,10 @@
+package textsection_16;
+
+public abstract class Keisyo_Human1 {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

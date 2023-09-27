@@ -1,0 +1,20 @@
+package kadai_017;
+
+public class Kato_Chapter17 {
+	public String familyName;
+	public String givenName;
+	public String address;
+	
+	public void commonIntroduce() {
+		
+	}
+	
+	abstract public void eachIntroduce() {
+		
+	}
+	
+	public void execIntroduce() {
+		
+	}
+
+}

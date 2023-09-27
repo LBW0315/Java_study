@@ -1,0 +1,8 @@
+package kadai_017;
+
+public class KatoHanako_Chapter17 {
+	public void setGivenName() {
+		this.givenName = "花子";
+	}
+
+}
